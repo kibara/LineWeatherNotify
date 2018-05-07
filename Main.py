@@ -17,7 +17,7 @@ class LineWeatherNotify:
             ["総武線快速", "https://transit.yahoo.co.jp/traininfo/detail/61/0/"],
             ["横須賀線", "https://transit.yahoo.co.jp/traininfo/detail/29/0/"]
         ]
-        self.token = "vyyfNWQV8Lbt2Xt1sl9qyyZgObHhWZOxKqyT3kLB4aU"
+        self.token = "Token"  # ここにトークンを記載
 
     def get_info(self, tenki_url, rosen_info):
         # 初期値セット
