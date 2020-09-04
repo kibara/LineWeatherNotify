@@ -65,3 +65,4 @@ class TestMain(unittest.TestCase):
         print(rain)
         print(temp)
         print(t_info)
+        print("aaaaa")
